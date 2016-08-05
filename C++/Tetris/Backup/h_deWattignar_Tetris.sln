@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "h_deWattignar_Tetris", "h_deWattignar_Tetris\h_deWattignar_Tetris.vcproj", "{D160B145-E994-4ED5-A52D-9CF1CEECDC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D160B145-E994-4ED5-A52D-9CF1CEECDC60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D160B145-E994-4ED5-A52D-9CF1CEECDC60}.Debug|Win32.Build.0 = Debug|Win32
+		{D160B145-E994-4ED5-A52D-9CF1CEECDC60}.Release|Win32.ActiveCfg = Release|Win32
+		{D160B145-E994-4ED5-A52D-9CF1CEECDC60}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

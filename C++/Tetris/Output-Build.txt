@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: h_deWattignar_Tetris, Configuration: Debug Win32 ------
+1>  GameEngine.cpp
+1>  h_deWattignar_Tetris.cpp
+1>  Generating Code...
+1>  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+1>  h_deWattignar_Tetris.vcxproj -> G:\Year two semester two\C++\Tetris\tetris\h_deWattignar_Tetris\Debug\h_deWattignar_Tetris.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
