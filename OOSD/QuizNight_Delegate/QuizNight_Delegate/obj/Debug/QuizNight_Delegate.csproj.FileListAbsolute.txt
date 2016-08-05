@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\bin\Debug\QuizNight_Delegate.exe.config
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\bin\Debug\QuizNight_Delegate.exe
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\bin\Debug\QuizNight_Delegate.pdb
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\obj\Debug\QuizNight_Delegate.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\obj\Debug\QuizNight_Delegate.Form1.resources
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\obj\Debug\QuizNight_Delegate.Properties.Resources.resources
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\obj\Debug\QuizNight_Delegate.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\obj\Debug\QuizNight_Delegate.exe
+E:\Git\IN710dewahm1\QuizNight_Delegate\QuizNight_Delegate\obj\Debug\QuizNight_Delegate.pdb

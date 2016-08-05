@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\bin\Debug\AnimalWorld.exe.config
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\obj\Debug\AnimalWorld.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\obj\Debug\AnimalWorld.Form1.resources
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\obj\Debug\AnimalWorld.Properties.Resources.resources
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\obj\Debug\AnimalWorld.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\bin\Debug\AnimalWorld.exe
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\bin\Debug\AnimalWorld.pdb
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\obj\Debug\AnimalWorld.exe
+E:\Git\IN710dewahm1\AnimalWorld\AnimalWorld\obj\Debug\AnimalWorld.pdb

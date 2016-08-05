@@ -1,0 +1,9 @@
+F:\Third_year\IN710dewahm1\StringStack\StringStack\bin\Debug\StringStack.exe.config
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\bin\Debug\StringStack.exe.config
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\bin\Debug\StringStack.exe
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\bin\Debug\StringStack.pdb
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\obj\Debug\StringStack.csprojResolveAssemblyReference.cache
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\obj\Debug\StringStack.Properties.Resources.resources
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\obj\Debug\StringStack.csproj.GenerateResource.Cache
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\obj\Debug\StringStack.exe
+H:\My Documents\GitHub\IN710dewahm1\StringStack\StringStack\obj\Debug\StringStack.pdb

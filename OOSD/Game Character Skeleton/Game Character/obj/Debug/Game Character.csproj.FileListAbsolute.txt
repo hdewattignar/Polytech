@@ -1,0 +1,20 @@
+E:\Users\Patricia\Desktop\Game Character\Game Character\bin\Debug\Game Character.exe.config
+E:\Users\Patricia\Desktop\Game Character\Game Character\bin\Debug\Game Character.exe
+E:\Users\Patricia\Desktop\Game Character\Game Character\bin\Debug\Game Character.pdb
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.csprojResolveAssemblyReference.cache
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game_Character.Properties.Resources.resources
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.csproj.GenerateResource.Cache
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.exe
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.pdb
+F:\Third_year\OOSD\Week 4\Game Character Skeleton\Game Character\bin\Debug\Game Character.exe.config
+F:\Third_year\OOSD\Week 4\Game Character Skeleton\Game Character\obj\Debug\Game Character.exe
+F:\Third_year\OOSD\Week 4\Game Character Skeleton\Game Character\obj\Debug\Game Character.pdb
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\bin\Debug\Game Character.exe.config
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\obj\Debug\Game Character.exe
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\obj\Debug\Game Character.pdb
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\obj\Debug\Game Character.csprojResolveAssemblyReference.cache
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\obj\Debug\Game_Character.Form1.resources
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\obj\Debug\Game_Character.Properties.Resources.resources
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\obj\Debug\Game Character.csproj.GenerateResource.Cache
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\bin\Debug\Game Character.exe
+H:\My Documents\GitHub\IN710dewahm1\Game Character Skeleton\Game Character\bin\Debug\Game Character.pdb

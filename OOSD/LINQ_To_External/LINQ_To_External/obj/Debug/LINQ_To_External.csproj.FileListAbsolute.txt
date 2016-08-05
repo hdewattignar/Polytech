@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\bin\Debug\LINQ_To_External.exe.config
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\bin\Debug\LINQ_To_External.exe
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\bin\Debug\LINQ_To_External.pdb
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\obj\Debug\LINQ_To_External.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\obj\Debug\LINQ_To_External.Form1.resources
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\obj\Debug\LINQ_To_External.Properties.Resources.resources
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\obj\Debug\LINQ_To_External.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\obj\Debug\LINQ_To_External.exe
+E:\Git\IN710dewahm1\LINQ_To_External\LINQ_To_External\obj\Debug\LINQ_To_External.pdb

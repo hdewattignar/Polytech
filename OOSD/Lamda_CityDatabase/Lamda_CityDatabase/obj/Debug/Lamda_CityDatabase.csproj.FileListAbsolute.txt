@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\bin\Debug\Lamda_CityDatabase.exe.config
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\bin\Debug\Lamda_CityDatabase.exe
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\bin\Debug\Lamda_CityDatabase.pdb
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\obj\Debug\Lamda_CityDatabase.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\obj\Debug\Lamda_CityDatabase.Form1.resources
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\obj\Debug\Lamda_CityDatabase.Properties.Resources.resources
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\obj\Debug\Lamda_CityDatabase.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\obj\Debug\Lamda_CityDatabase.exe
+E:\Git\IN710dewahm1\Lamda_CityDatabase\Lamda_CityDatabase\obj\Debug\Lamda_CityDatabase.pdb

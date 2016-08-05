@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\bin\Debug\SocialNetworkMessager.exe.config
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\obj\Debug\SocialNetworkMessager.Form1.resources
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\obj\Debug\SocialNetworkMessager.Properties.Resources.resources
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\obj\Debug\SocialNetworkMessager.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\bin\Debug\SocialNetworkMessager.exe
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\bin\Debug\SocialNetworkMessager.pdb
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\obj\Debug\SocialNetworkMessager.exe
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\obj\Debug\SocialNetworkMessager.pdb
+E:\Git\IN710dewahm1\SocialNetworkMessager\SocialNetworkMessager\obj\Debug\SocialNetworkMessager.csprojResolveAssemblyReference.cache

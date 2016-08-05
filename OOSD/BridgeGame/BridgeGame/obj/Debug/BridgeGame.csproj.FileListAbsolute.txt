@@ -1,0 +1,10 @@
+E:\Third year\IN710dewahm1\BridgeGame\BridgeGame\bin\Debug\BridgeGame.exe.config
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\bin\Debug\BridgeGame.exe.config
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\obj\Debug\BridgeGame.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\obj\Debug\BridgeGame.Form1.resources
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\obj\Debug\BridgeGame.Properties.Resources.resources
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\obj\Debug\BridgeGame.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\bin\Debug\BridgeGame.exe
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\bin\Debug\BridgeGame.pdb
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\obj\Debug\BridgeGame.exe
+E:\Git\IN710dewahm1\BridgeGame\BridgeGame\obj\Debug\BridgeGame.pdb

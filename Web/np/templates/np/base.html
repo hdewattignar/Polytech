@@ -1,0 +1,39 @@
+{% load staticfiles %}
+
+<html>
+    <head>
+        <title>Amazing News</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">        
+        <link href="http://fonts.googleapis.com/css?family=Tangerine&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="{% static 'css/np.css' %}">
+    </head>
+    <body>
+        <div class="page-header">
+			{% if user.is_authenticated %}				
+				<a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
+				<p class="top-menu">Hello {{ user.username }}<small>(<a href="{% url 'django.contrib.auth.views.logout' %}">Log out</a>)</small></p>
+			{% else %}
+				<a href="{% url 'django.contrib.auth.views.login' %}" class="top-menu"><span class="glyphicon glyphicon-lock"></span></a>
+			{% endif %}	
+			</br>
+			</br>
+            <h1><a href="{% url 'post_list' %}"> Amazing News</a></h1>
+			<ul>
+				<li><a href="{% url 'category_filter' category='NewZealand' %}"> Local</a></li>
+				<li><a href="{% url 'category_filter' category='World' %}"> World</a></li>
+				<li><a href="{% url 'category_filter' category='Technology' %}"> Technology</a></li>
+				<li><a href="{% url 'category_filter' category='Sport' %}"> Sports</a></li>
+			</ul>		
+        </div>		
+        <div class="content-container">
+            <div class="row">
+                <div class="col-md-8">
+                {% block content %}
+                {% endblock %}
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>

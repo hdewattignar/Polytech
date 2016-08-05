@@ -1,0 +1,9 @@
+E:\Git\MovieDataBase_prac2.2\MovieDataBase_prac2.2\bin\Debug\MovieDataBase_prac2.2.exe.config
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\obj\Debug\MovieDataBase_prac2._2.Form1.resources
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\obj\Debug\MovieDataBase_prac2._2.Properties.Resources.resources
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\obj\Debug\MovieDataBase_prac2.2.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\bin\Debug\MovieDataBase_prac2.2.exe.config
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\bin\Debug\MovieDataBase_prac2.2.exe
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\bin\Debug\MovieDataBase_prac2.2.pdb
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\obj\Debug\MovieDataBase_prac2.2.exe
+E:\Git\IN710dewahm1\MovieDataBase_prac2.2\MovieDataBase_prac2.2\obj\Debug\MovieDataBase_prac2.2.pdb

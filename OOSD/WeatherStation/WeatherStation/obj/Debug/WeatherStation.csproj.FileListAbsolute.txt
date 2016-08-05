@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\obj\Debug\WeatherStation.Form1.resources
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\obj\Debug\WeatherStation.Properties.Resources.resources
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\obj\Debug\WeatherStation.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\bin\Debug\WeatherStation.exe.config
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\bin\Debug\WeatherStation.exe
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\bin\Debug\WeatherStation.pdb
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\obj\Debug\WeatherStation.exe
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\obj\Debug\WeatherStation.pdb
+E:\Git\IN710dewahm1\WeatherStation\WeatherStation\obj\Debug\WeatherStation.csprojResolveAssemblyReference.cache

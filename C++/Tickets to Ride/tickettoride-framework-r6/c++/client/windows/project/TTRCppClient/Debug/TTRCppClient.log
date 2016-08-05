@@ -1,0 +1,63 @@
+﻿Build started 8/11/2015 4:17:00 p.m..
+     1>Project "F:\Year two semester two\C++\Tickets to Ride\tickettoride-framework-r6\c++\client\windows\project\TTRCppClient\TTRCppClient.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\headers /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp TTRCard.cpp TTRDeck.cpp TTREdge.cpp TTRGenerator.cpp TTRMap.cpp TTRMission.cpp TTRNode.cpp TTRPlayer.cpp TTRTime.cpp tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp RandomSolution.cpp ArrayList.cpp Mutex.cpp Socket.cpp String.cpp Thread.cpp TTRClient.cpp TTRClientThread.cpp
+         TTRClientThread.cpp
+         TTRClient.cpp
+         Thread.cpp
+         String.cpp
+         Socket.cpp
+         Mutex.cpp
+         ArrayList.cpp
+         RandomSolution.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         TTRTime.cpp
+         TTRPlayer.cpp
+         TTRNode.cpp
+         TTRMission.cpp
+         TTRMap.cpp
+         TTRGenerator.cpp
+     1>f:\year two semester two\c++\tickets to ride\tickettoride-framework-r6\c++\client\windows\project\ttrcppclient\ttrgenerator.cpp(20): warning C4244: '=' : conversion from 'long double' to 'long', possible loss of data
+         TTREdge.cpp
+         TTRDeck.cpp
+         Generating Code...
+         Compiling...
+         TTRCard.cpp
+         main.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\headers /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt TTRColor.c
+         TTRColor.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Year two semester two\C++\Tickets to Ride\tickettoride-framework-r6\c++\client\windows\project\Debug\TTRCppClient.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\lib ws2_32.lib pthreadVC2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Year two semester two\C++\Tickets to Ride\tickettoride-framework-r6\c++\client\windows\project\Debug\TTRCppClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Year two semester two\C++\Tickets to Ride\tickettoride-framework-r6\c++\client\windows\project\Debug\TTRCppClient.lib" /MACHINE:X86 /SAFESEH Debug\main.obj
+         Debug\TTRCard.obj
+         Debug\TTRColor.obj
+         Debug\TTRDeck.obj
+         Debug\TTREdge.obj
+         Debug\TTRGenerator.obj
+         Debug\TTRMap.obj
+         Debug\TTRMission.obj
+         Debug\TTRNode.obj
+         Debug\TTRPlayer.obj
+         Debug\TTRTime.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\RandomSolution.obj
+         Debug\ArrayList.obj
+         Debug\Mutex.obj
+         Debug\Socket.obj
+         Debug\String.obj
+         Debug\Thread.obj
+         Debug\TTRClient.obj
+         Debug\TTRClientThread.obj
+     1>main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         TTRCppClient.vcxproj -> F:\Year two semester two\C++\Tickets to Ride\tickettoride-framework-r6\c++\client\windows\project\Debug\TTRCppClient.exe
+     1>Done Building Project "F:\Year two semester two\C++\Tickets to Ride\tickettoride-framework-r6\c++\client\windows\project\TTRCppClient\TTRCppClient.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:21.79

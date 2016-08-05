@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\Predicate\Predicate\bin\Debug\Predicate.exe.config
+E:\Git\IN710dewahm1\Predicate\Predicate\obj\Debug\Predicate.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\Predicate\Predicate\obj\Debug\Predicate.Form1.resources
+E:\Git\IN710dewahm1\Predicate\Predicate\obj\Debug\Predicate.Properties.Resources.resources
+E:\Git\IN710dewahm1\Predicate\Predicate\obj\Debug\Predicate.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\Predicate\Predicate\bin\Debug\Predicate.exe
+E:\Git\IN710dewahm1\Predicate\Predicate\bin\Debug\Predicate.pdb
+E:\Git\IN710dewahm1\Predicate\Predicate\obj\Debug\Predicate.exe
+E:\Git\IN710dewahm1\Predicate\Predicate\obj\Debug\Predicate.pdb

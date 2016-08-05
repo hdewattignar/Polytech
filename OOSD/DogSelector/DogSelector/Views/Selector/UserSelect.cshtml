@@ -1,0 +1,89 @@
+﻿@model DogSelector.Models.Dog
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View2</title>
+    <h2>Welcome</h2>
+    <h3>Make selections below to find your perfect dog</h3>
+    <div>
+        <p>Must be good with children</p>
+        <form action"">
+            <input id="children" type="radio" value="Yes"/> Yes<br />
+            <input id="children" type="radio" value="No" /> No<br />
+        </form>
+
+        <p>Drooling</p><br />
+        <form action"">
+            <input id="drooling" type="radio" value="Yes" /> Yes<br />
+            <input id="drooling" type="radio" value="No" /> No<br />
+        </form>
+
+        <p>Coat Length</p><br />
+        <form action"">
+            <input id="coat" type="radio" value="Short" /> Short<br />
+            <input id="coat" type="radio" value="Medium" /> Medium<br />
+            <input id="coat" type="radio" value="Long" /> Long<br />
+        </form>
+
+        <p>Preferences</p><br />
+        <table style="width:100%;">
+        <tr>
+            <td>&nbsp;</td>
+            <td>Low</td>
+            <td>Medium</td>
+            <td>High</td>
+            <td>No Preference</td>
+        </tr>
+        <tr>
+            <td>Activity Level</td>
+            <td><input id="activity" type="radio" value="Low" /> Low</td>
+            <td><input id="activity" type="radio" value="Medium" /> Medium</td>
+            <td><input id="activity" type="radio" value="High" /> High</td>
+            <td><input id="activity" type="radio" value="No Preferences" /> No Preference</td>
+            </tr>
+        <tr>
+            <td>Shedding Level</td>
+            <td><input id="shedding" type="radio" value="Low" /> Low</td>
+            <td><input id="shedding" type="radio" value="Medium" /> Medium</td>
+            <td><input id="shedding" type="radio" value="High" /> High</td>
+            <td><input id="shedding" type="radio" value="No Preferences" /> No Preference</td>
+            </tr>
+        <tr>
+            <td>Grooming Level</td>
+            <td><input id="grooming" type="radio" value="Low" /> Low</td>
+            <td><input id="grooming" type="radio" value="Medium" /> Medium</td>
+            <td><input id="grooming" type="radio" value="High" /> High</td>
+            <td><input id="grooming" type="radio" value="No Preferences" /> No Preference</td>
+        </tr>
+        <tr>
+            <td>Intelligence Level</td>
+            <td><input id="intelligence" type="radio" value="Low" /> Low</td>
+            <td><input id="intelligence" type="radio" value="Medium" /> Medium</td>
+            <td><input id="intelligence" type="radio" value="High" /> High</td>
+            <td><input id="intelligence" type="radio" value="No Preferences" /> No Preference</td>
+        </tr>
+        </table>
+
+        <p>Preferred Size</p>
+        <select>
+            <option value="large">Large</option>
+            <option value="medium">Medium</option>
+            <option value="small">Small</option>
+        </select>
+
+        <input id="submit" type="submit" value="Submit" />
+        
+    </div>
+</head>
+<body>
+    <div> 
+    </div>
+</body>
+</html>

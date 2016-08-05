@@ -1,0 +1,48 @@
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\obj\Debug\metronome.Form1.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\obj\Debug\metronome.Properties.Resources.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\bin\Debug\metronome.exe
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\bin\Debug\metronome.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\obj\Debug\metronome.exe
+C:\Documents and Settings\Compaq_Owner\Desktop\metronome\metronome\obj\Debug\metronome.pdb
+C:\Users\Patricia\Desktop\Events\metronome\metronome\obj\Debug\metronome.exe
+C:\Users\Patricia\Desktop\Events\metronome\metronome\obj\Debug\metronome.pdb
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.exe
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.pdb
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\bin\Debug\metronome.exe
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\bin\Debug\metronome.pdb
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\obj\Debug\ResolveAssemblyReference.cache
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.Form1.resources
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.Properties.Resources.resources
+D:\IT321 OOAD\IT321 Teaching Sessions\IT321 Practicals\Week 8\IT321 Practical 8.1 and 8.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\IT710 Practical 9.1 and 9.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.exe
+C:\Users\Patricia\Desktop\IT710 Practical 9.1 and 9.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.pdb
+C:\Users\Patricia\Desktop\IT710 Practical 9.1 and 9.2 - Threading\Metronome Demo\metronome\bin\Debug\metronome.exe
+C:\Users\Patricia\Desktop\IT710 Practical 9.1 and 9.2 - Threading\Metronome Demo\metronome\bin\Debug\metronome.pdb
+C:\Users\Patricia\Desktop\IT710 Practical 9.1 and 9.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.Form1.resources
+C:\Users\Patricia\Desktop\IT710 Practical 9.1 and 9.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.Properties.Resources.resources
+C:\Users\Patricia\Desktop\IT710 Practical 9.1 and 9.2 - Threading\Metronome Demo\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache
+E:\Users\Patricia\Desktop\IN710 OOSD 2013 Session 9.1 and 9.2 - Threading\Threading Prac Demos for I drive\Metronome Demo\metronome\obj\Debug\metronome.exe
+E:\Users\Patricia\Desktop\IN710 OOSD 2013 Session 9.1 and 9.2 - Threading\Threading Prac Demos for I drive\Metronome Demo\metronome\obj\Debug\metronome.pdb
+E:\Users\Patricia\Desktop\IN710 OOSD 2013 Session 9.1 and 9.2 - Threading\Threading Prac Demos for I drive\Metronome Demo\metronome\bin\Debug\metronome.exe
+E:\Users\Patricia\Desktop\IN710 OOSD 2013 Session 9.1 and 9.2 - Threading\Threading Prac Demos for I drive\Metronome Demo\metronome\bin\Debug\metronome.pdb
+E:\Users\Patricia\Desktop\IN710 OOSD 2013 Session 9.1 and 9.2 - Threading\Threading Prac Demos for I drive\Metronome Demo\metronome\obj\Debug\metronome.Form1.resources
+E:\Users\Patricia\Desktop\IN710 OOSD 2013 Session 9.1 and 9.2 - Threading\Threading Prac Demos for I drive\Metronome Demo\metronome\obj\Debug\metronome.Properties.Resources.resources
+E:\Users\Patricia\Desktop\IN710 OOSD 2013 Session 9.1 and 9.2 - Threading\Threading Prac Demos for I drive\Metronome Demo\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.exe
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.pdb
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\bin\Debug\metronome.exe
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\bin\Debug\metronome.pdb
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.csprojResolveAssemblyReference.cache
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.Form1.resources
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.Properties.Resources.resources
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.exe
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.pdb
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\bin\Debug\metronome.exe
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\bin\Debug\metronome.pdb
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.csprojResolveAssemblyReference.cache
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.Form1.resources
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.Properties.Resources.resources
+G:\Third_year\OOSD\Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache

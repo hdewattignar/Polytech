@@ -1,0 +1,7 @@
+H:\My Documents\GitHub\IN710dewahm1\StringStack\UnitTestStringStack\obj\Debug\UnitTestStringStack.csprojResolveAssemblyReference.cache
+H:\My Documents\GitHub\IN710dewahm1\StringStack\UnitTestStringStack\bin\Debug\UnitTestStringStack.dll
+H:\My Documents\GitHub\IN710dewahm1\StringStack\UnitTestStringStack\bin\Debug\UnitTestStringStack.pdb
+H:\My Documents\GitHub\IN710dewahm1\StringStack\UnitTestStringStack\bin\Debug\StringStack.exe
+H:\My Documents\GitHub\IN710dewahm1\StringStack\UnitTestStringStack\bin\Debug\StringStack.pdb
+H:\My Documents\GitHub\IN710dewahm1\StringStack\UnitTestStringStack\obj\Debug\UnitTestStringStack.dll
+H:\My Documents\GitHub\IN710dewahm1\StringStack\UnitTestStringStack\obj\Debug\UnitTestStringStack.pdb

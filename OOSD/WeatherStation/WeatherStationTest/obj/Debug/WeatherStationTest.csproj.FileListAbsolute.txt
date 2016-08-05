@@ -1,0 +1,7 @@
+E:\Git\IN710dewahm1\WeatherStation\WeatherStationTest\bin\Debug\WeatherStationTest.dll
+E:\Git\IN710dewahm1\WeatherStation\WeatherStationTest\bin\Debug\WeatherStationTest.pdb
+E:\Git\IN710dewahm1\WeatherStation\WeatherStationTest\bin\Debug\WeatherStation.exe
+E:\Git\IN710dewahm1\WeatherStation\WeatherStationTest\bin\Debug\WeatherStation.pdb
+E:\Git\IN710dewahm1\WeatherStation\WeatherStationTest\obj\Debug\WeatherStationTest.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\WeatherStation\WeatherStationTest\obj\Debug\WeatherStationTest.dll
+E:\Git\IN710dewahm1\WeatherStation\WeatherStationTest\obj\Debug\WeatherStationTest.pdb

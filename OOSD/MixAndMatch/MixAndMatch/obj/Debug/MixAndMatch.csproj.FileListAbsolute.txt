@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\bin\Debug\MixAndMatch.exe.config
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\bin\Debug\MixAndMatch.exe
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\bin\Debug\MixAndMatch.pdb
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\obj\Debug\MixAndMatch.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\obj\Debug\MixAndMatch.Form1.resources
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\obj\Debug\MixAndMatch.Properties.Resources.resources
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\obj\Debug\MixAndMatch.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\obj\Debug\MixAndMatch.exe
+E:\Git\IN710dewahm1\MixAndMatch\MixAndMatch\obj\Debug\MixAndMatch.pdb

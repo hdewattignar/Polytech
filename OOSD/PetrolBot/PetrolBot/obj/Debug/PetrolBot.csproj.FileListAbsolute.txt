@@ -1,0 +1,9 @@
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\bin\Debug\PetrolBot.exe.config
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\bin\Debug\PetrolBot.exe
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\bin\Debug\PetrolBot.pdb
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\obj\Debug\PetrolBot.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\obj\Debug\PetrolBot.Form1.resources
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\obj\Debug\PetrolBot.Properties.Resources.resources
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\obj\Debug\PetrolBot.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\obj\Debug\PetrolBot.exe
+E:\Git\IN710dewahm1\PetrolBot\PetrolBot\obj\Debug\PetrolBot.pdb

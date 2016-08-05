@@ -1,0 +1,17 @@
+E:\Git\TwoToOneTask\TwoToOneTask\bin\Debug\TwoToOneTask.exe.config
+E:\Git\TwoToOneTask\TwoToOneTask\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Git\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.Properties.Resources.resources
+E:\Git\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.csproj.GenerateResource.Cache
+E:\Git\TwoToOneTask\TwoToOneTask\bin\Debug\TwoToOneTask.exe
+E:\Git\TwoToOneTask\TwoToOneTask\bin\Debug\TwoToOneTask.pdb
+E:\Git\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.exe
+E:\Git\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.pdb
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\bin\Debug\TwoToOneTask.exe.config
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.exe
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.pdb
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\bin\Debug\TwoToOneTask.exe
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\bin\Debug\TwoToOneTask.pdb
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.Properties.Resources.resources
+E:\Git\IN710dewahm1\TwoToOneTask\TwoToOneTask\obj\Debug\TwoToOneTask.csproj.GenerateResource.Cache

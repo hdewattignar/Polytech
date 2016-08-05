@@ -1,0 +1,10 @@
+E:\Git\ComputerBuilder\ComputerBuilder\bin\Debug\ComputerBuilder.exe.config
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\bin\Debug\ComputerBuilder.exe.config
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.Form1.resources
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.Properties.Resources.resources
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\bin\Debug\ComputerBuilder.exe
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\bin\Debug\ComputerBuilder.pdb
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.exe
+E:\Git\IN710dewahm1\ComputerBuilder\ComputerBuilder\obj\Debug\ComputerBuilder.pdb

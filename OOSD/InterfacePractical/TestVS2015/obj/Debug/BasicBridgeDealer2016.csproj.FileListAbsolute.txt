@@ -1,0 +1,20 @@
+F:\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 02\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.exe.config
+H:\Teaching Materials Semester 1 2016\IN710 OOSD 2016 Week 02\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.exe.config
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.exe.config
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.exe
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.pdb
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\BasicBridgeDealer2016.csprojResolveAssemblyReference.cache
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.Form1.resources
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.Properties.Resources.resources
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\BasicBridgeDealer2016.csproj.GenerateResource.Cache
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.exe
+G:\Third_year\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.pdb
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.exe.config
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.exe
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.pdb
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\BasicBridgeDealer2016.csprojResolveAssemblyReference.cache
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.Form1.resources
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\TestVS2015.Properties.Resources.resources
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\obj\Debug\BasicBridgeDealer2016.csproj.GenerateResource.Cache
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.exe
+E:\Git\IN710dewahm1\InterfacePractical\TestVS2015\bin\Debug\TestVS2015.pdb
